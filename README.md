@@ -29,14 +29,21 @@ Go ahead and click **add user**, fill out the form inputs (keep latitude and lon
 
 ## What's so cool about that?
 
-Google Maps for Rails   |  Code Snippets
-:----------------------:|:-------------------------:
-index.html.erb <script> |![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png)
-UsersController method  |![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png)
+Yuck! Look how much code has to be written just to index an API.  
+- Imagine using Vanilla JS and building each of those lengthy $.ajax calls to fetch JSON data and render views.
+- Then, incorporating the Google API functions throughout.
 
 JS & jQuery's AJAX      |  Code Snippets
 :----------------------:|:-------------------------:
 app.js                  |![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/jqueryajax.png)
+
+
+Don't despair - `gmaps4rails` is here! Ahhhhh, look at all that beautiful code.
+
+Google Maps for Rails   |  Code Snippets
+:----------------------:|:-------------------------:
+index.html.erb <script> |![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png)
+UsersController method  |![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png)
 
 
 ## Want a map for YOUR app?
