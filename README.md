@@ -8,4 +8,4 @@
 4. `$ rails s`
 5. open your browser and go to localhost:3000
 
-![](https://github.com/NrupM/lightning-gmaps4rails/tree/master/app/assets/images/Gmaps4rails.png)
+![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/Gmaps4rails.png)
