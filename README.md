@@ -1,24 +1,11 @@
-# README
+## <img src="https://www.seeklogo.net/wp-content/uploads/2016/07/Ruby-logo.png" height="20px"> Lightning talk on Ruby gem `gmaps4rails`
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Steps to get started
 
-Things you may want to cover:
+1. git clone repo
+2. `$ bundle install `
+3. `$ rails db:create`
+4. `$ rails s`
+5. open your browser and go to localhost:3000
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[[https://github.com/NrupM/lightning-gmaps4rails/tree/master/app/assets/images]]
