@@ -8,6 +8,8 @@ end
 
 # Use google-maps-for-rails for google maps API integration
 gem 'gmaps4rails'
+# Use geocoder for google maps API
+gem 'geocoder'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.3'
 # Use sqlite3 as the database for Active Record
