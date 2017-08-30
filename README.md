@@ -28,9 +28,9 @@
 Go ahead and click **add user**, fill out the form inputs (keep latitude and longitude field blank) and come back to localhost:3000 to see your new "user".
 
 ## What's so cool about that?
-<img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png" height="200px"> <img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png" height="300px">  
+<img align="left" width="300px" src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png"> <img align="right" width="300px" src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png">  
 
-<img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/jqueryajax.png" height="600px">
+<img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/jqueryajax.png" height="800px">
 
 ## Want a map for YOUR app?
 
