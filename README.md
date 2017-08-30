@@ -34,7 +34,7 @@ Solarized dark             |  Solarized Ocean
 
 Controller Method          |  View <script>
 :-------------------------:|:-------------------------:
-![](ttps://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png)|![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png)
+![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png)|![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png)
 
 
 <img align="left" width="300px" src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png"> <img align="right" width="300px" src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png">  
