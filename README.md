@@ -13,7 +13,6 @@
   * Can be integrated with other JS libraries, such as jQuery, and works well with Rails controllers and views.
 
 > Each model instance is a point on the map.
-> Although you do use some javascript for the Google maps API its not nearly as much as without the gem - allowing you to start working with the map immediately and not having to take the time to implement basic functionality.
 
 ## Steps to get started
 
@@ -28,6 +27,9 @@
 Go ahead and click **add user**, fill out the form inputs (keep latitude and longitude field blank) and come back to localhost:3000 to see your new "user".
 
 ## What's so cool about that?
+> Although you do use some javascript for the Google maps API its not nearly as much as without the gem - allowing you to start working with the map immediately and not having to take the time to implement basic functionality.
+
+Example:
 
 Yuck! Look how much code has to be written just to index an API.  
 - Imagine using Vanilla JS and building each of those lengthy $.ajax calls to fetch JSON data and render views.
