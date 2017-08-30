@@ -28,6 +28,15 @@
 Go ahead and click **add user**, fill out the form inputs (keep latitude and longitude field blank) and come back to localhost:3000 to see your new "user".
 
 ## What's so cool about that?
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Ocean.png)  |  ![](https://...Dark.png)
+
+Controller Method          |  View <script>
+:-------------------------:|:-------------------------:
+![](ttps://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png)  |  ![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png)
+
+
 <img align="left" width="300px" src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png"> <img align="right" width="300px" src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png">  
 
 <img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/jqueryajax.png" height="800px">
