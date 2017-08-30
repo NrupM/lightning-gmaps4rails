@@ -39,7 +39,7 @@ app.js                  |![](https://github.com/NrupM/lightning-gmaps4rails/blob
 
 
 
-### But wait, don't despair - `gmaps4rails` is here! Ahhhhh, look at all that beautiful code.   
+### * But wait, don't despair - `gmaps4rails` is here! Ahhhhh, look at all that beautiful code.   
 
 
 Google Maps for Rails   |  Code Snippets
