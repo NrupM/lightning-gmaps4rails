@@ -31,7 +31,7 @@ Go ahead and click **add user**, fill out the form inputs (keep latitude and lon
 
 **For example:**
 
-Yuck! Look how much code has to be written just to index an API.  
+Look how much code has to be written just to index an API. Yuck! 
 - Imagine using Vanilla JS and building each of those lengthy $.ajax calls to fetch JSON data and render views.
 - Then, incorporating the Google API functions throughout.
 
