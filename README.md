@@ -24,22 +24,17 @@
 5. open your browser and go to localhost:3000
 
 ## You should see.....
-
 ![](https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/Gmaps4rails.png)
-
-## Then what?
-
 Go ahead and click **add user**, fill out the form inputs (keep latitude and longitude field blank) and come back to localhost:3000 to see your new "user".
 
-## What's so cool about it?
-<img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png" height="300px">  
-<img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png" height="300px">  
+## What's so cool about that?
+<img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_controller.png" height="200px"> <img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/users_indexview.png" height="300px">  
 
 <img src="https://github.com/NrupM/lightning-gmaps4rails/blob/master/app/assets/images/jqueryajax.png" height="600px">
 
 ## Want a map for YOUR app?
 
- * I suggest going through this [tutorial](https://www.youtube.com/watch?v=R0l-7en3dUw&feature=youtu.be) before setting up the gem in your app. It takes less than 30 minutes(depending on familiarity with Rails) and gives you a good idea of how the gem works within an app. Afterwards, your implementation will be smooth sailing!
+ * I suggest going through this [tutorial](https://www.youtube.com/watch?v=R0l-7en3dUw&feature=youtu.be) before setting up the gem in your app. It takes less than 30 minutes(depending on familiarity with Rails) and gives you a good idea of how the gem works within an app. *Afterwards*, your implementation will be smooth sailing!
  * Be aware that the first setup takes at *least* 30 minutes.
 
 ### Helpful links below:
