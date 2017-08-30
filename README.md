@@ -18,6 +18,8 @@ Go ahead and click **add user**, fill out the form inputs (keep latitude and lon
 
 If you'd like to know more, check out the links below:
 
-[Google Maps for Rails github](https://github.com/apneadiving/Google-Maps-for-Rails)
-[Helpful tutorial](https://www.youtube.com/watch?v=R0l-7en3dUw&feature=youtu.be)
-[Blog article discussing why you might wan to use gmaps4rails](https://anadea.info/blog/how-to-integrate-google-maps-into-ruby-on-rails-app)
+* [Google Maps for Rails github](https://github.com/apneadiving/Google-Maps-for-Rails)
+
+* [Helpful tutorial](https://www.youtube.com/watch?v=R0l-7en3dUw&feature=youtu.be)
+
+* [Blog article discussing why you might wan to use gmaps4rails](https://anadea.info/blog/how-to-integrate-google-maps-into-ruby-on-rails-app)
