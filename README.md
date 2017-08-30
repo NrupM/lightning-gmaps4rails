@@ -29,7 +29,7 @@ Go ahead and click **add user**, fill out the form inputs (keep latitude and lon
 ## What's so cool about that?
 > Although you do use some javascript for the Google maps API its not nearly as much as without the gem - allowing you to start working with the map immediately and not having to take the time to implement basic functionality.
 
-Example:
+**For example:**
 
 Yuck! Look how much code has to be written just to index an API.  
 - Imagine using Vanilla JS and building each of those lengthy $.ajax calls to fetch JSON data and render views.
